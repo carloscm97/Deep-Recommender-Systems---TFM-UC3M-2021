@@ -1,0 +1,5 @@
+epoch,epoch_time,train_time,loss,prec,recall,ndcg,nov
+1,6.723212242126465,1.8329472541809082,"tensor(6256.6836, grad_fn=<AddBackward0>)",Prec@100,Recall@100,NDCG@100,Nov@100
+2,5.747941017150879,1.141998529434204,"tensor(5968.2480, grad_fn=<AddBackward0>)",Prec@100,Recall@100,NDCG@100,Nov@100
+3,5.96808934211731,1.213801622390747,"tensor(5823.7812, grad_fn=<AddBackward0>)",Prec@100,Recall@100,NDCG@100,Nov@100
+4,5.869095087051392,1.1715538501739502,"tensor(5743.3169, grad_fn=<AddBackward0>)",Prec@100,Recall@100,NDCG@100,Nov@100
